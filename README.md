@@ -57,13 +57,4 @@
 Stalkers 
 <p><img align="center" src="https://profile-counter.glitch.me/{DevSamuel06}/count.svg"/></p> 
 </div>
-
-# Contributions
-(in the last 365 days, languages pie based on number of commits)
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-
-<!-- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AndreWar10&theme=xcode) -->
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1161F1&height=120&section=footer"/>

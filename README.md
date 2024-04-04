@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1161F1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1161F1&size=40&center=true&vCenter=true&width=1000&lines=Hello,+my+name's+Samuel+Filho;I+from+Brasil,+SP;I'm+a+Web+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1161F1&size=40&center=true&vCenter=true&width=1000&lines=Hello,+my+name's+Samuel+Filho;I+from+Brasil,+SP;I'm+a+Software+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
@@ -8,7 +8,7 @@
 
 <br/>  
 <p align="left"> 
-  🌎 Olá! Meu nome é Samuel Ribeiro Filho. E eu sou <strong>Web developer</strong></strong>.
+  🌎 Olá! Meu nome é Samuel Ribeiro Filho. E eu sou <strong>Software developer</strong></strong>.
 </p>
 
 <p align="left">
